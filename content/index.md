@@ -1,5 +1,5 @@
 ---
-title: Home
+title: DevOps Compte-Rendu 
 publish: true
 ---
 # DevOps Compte-Rendu 👋
