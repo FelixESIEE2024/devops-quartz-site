@@ -28,6 +28,12 @@ Ce site présente les projets et laboratoires DevOps de l'équipe E4 DSIA Félix
 **[Accéder à Lab 3 →](https://fantasy-cyclamen-e0f.notion.site/Lab3-How-to-Deploy-Your-Apps-2ca29d729aba804b8820d93c9133603f?pvs=74)**
 
 
+#### Lab 4: Version Control, Build Systems, and Automated Testing
+
+**[Accéder à Lab 4 →](https://automatic-bonsai-dd7.notion.site/LAB-4-devops-2c867a73a38480a3a7d5dc13ecd34fea)**
+
+
+
 
 ####  Lab 5: Configuration Avancée
 
