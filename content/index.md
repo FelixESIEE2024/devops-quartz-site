@@ -2,9 +2,6 @@
 title: DevOps Compte-Rendu 
 publish: true
 ---
-# DevOps Compte-Rendu 👋
-
-
 Ce site présente les projets et laboratoires DevOps de l'équipe E4 DSIA Félix et Thomas
 
 ---
@@ -22,22 +19,22 @@ Ce site présente les projets et laboratoires DevOps de l'équipe E4 DSIA Félix
 
 #### Lab 2: Managing Infrastructure as Code (IaC)
 
-**📖 [Accéder à Lab 2 →](https://fantasy-cyclamen-e0f.notion.site/Lab2-Managing-Infrastructure-as-Code-IaC-2c829d729aba80cb8de4e042082bd979?source=copy_link)**
+**.      [Accéder à Lab 2 →](https://fantasy-cyclamen-e0f.notion.site/Lab2-Managing-Infrastructure-as-Code-IaC-2c829d729aba80cb8de4e042082bd979?source=copy_link)**
 
----
+
 
 #### Lab 3: How to Deploy Your Apps
 
-**📖 [Accéder à Lab 3 →](https://fantasy-cyclamen-e0f.notion.site/Lab3-How-to-Deploy-Your-Apps-2ca29d729aba804b8820d93c9133603f?pvs=74)**
+**.      [Accéder à Lab 3 →](https://fantasy-cyclamen-e0f.notion.site/Lab3-How-to-Deploy-Your-Apps-2ca29d729aba804b8820d93c9133603f?pvs=74)**
 
----
+
 
 ####  Lab 5: Configuration Avancée
 
 
-**📖 [Accéder à Lab 5 →](https://fantasy-cyclamen-e0f.notion.site/Lab-5-VRAI-FICHIER-2e529d729aba8157b6e4efed27fe2ec8?source=copy_link)**
+**.      [Accéder à Lab 5 →](https://fantasy-cyclamen-e0f.notion.site/Lab-5-VRAI-FICHIER-2e529d729aba8157b6e4efed27fe2ec8?source=copy_link)**
 
----
+
 
 
 
