@@ -15,7 +15,7 @@ Ce site présente les projets et laboratoires DevOps de l'équipe E4 DSIA Félix
 
 
 
-## 📚 **Laboratoires et Ressources**
+## 📚 **Laboratoires et Ressourcess**
 
 #### Lab 2: Managing Infrastructure as Code (IaC)
 
