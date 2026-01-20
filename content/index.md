@@ -2,14 +2,10 @@
 title: Home
 publish: true
 ---
-# ######### ajout - Page d'accueil personnalisée avec hello felix
-# Ce fichier README.md est converti en page d'accueil (content/index.md) par le script
+# DevOps Compte-Rendu 👋
 
-# Bienvenue sur le site DevOps - Felix 👋
 
-## Hello Felix! 
-
-Ce site présente les projets et laboratoires DevOps de l'équipe ESIEE.
+Ce site présente les projets et laboratoires DevOps de l'équipe E4 DSIA Félix et Thomas
 
 ---
 
