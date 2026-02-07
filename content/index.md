@@ -13,6 +13,17 @@ Ce site présente les projets et laboratoires DevOps de l'équipe E4 DSIA Félix
 
 ---
 
+## 🚇 **PROJET**
+
+
+
+Application : http://app.felixthomasmetro.cloud/
+
+Backend : http://api.felixthomasmetro.cloud:8000
+
+Github : https://github.com/FelixESIEE2024/Metro_DevOps_Thomas_Felix
+
+Rapport de projet : https://fantasy-cyclamen-e0f.notion.site/Documentation-Projet-2ff29d729aba8081b2efc68ec41dfcbf
 
 
 ## 📚 **Laboratoires et Ressourcess**
@@ -35,12 +46,21 @@ Ce site présente les projets et laboratoires DevOps de l'équipe E4 DSIA Félix
 
 
 
-####  Lab 5: Configuration Avancée
+####  Lab 5: Configuration Avancée CI/CD
 
 
 **[Accéder à Lab 5 →](https://fantasy-cyclamen-e0f.notion.site/Lab-5-VRAI-FICHIER-2e529d729aba8157b6e4efed27fe2ec8?source=copy_link)**
 
 ---
+
+
+####  Lab 5: Multi-Environments (Teams) and Multi-Services in Kubernetes
+
+**[Accéder à Lab 6 →](https://fantasy-cyclamen-e0f.notion.site/LAB-6-Multi-Environments-Teams-and-Multi-Services-in-Kubernetes-30029d729aba800a83cbe61bfeaea4dd)**
+
+---
+
+
 
 
 
@@ -51,7 +71,7 @@ Ce site présente les projets et laboratoires DevOps de l'équipe E4 DSIA Félix
 | **Générateur** | Quartz v4 |
 | **Hébergement** | Cloudflare Pages |
 | **Protection** | Cloudflare Access (emails @esiee.fr) |
-| **Projet** | felix-devops-site |
+| **Projet** | Félix & Thomas |
 | **URL** | https://felix-devops-site.pages.dev |
 
 ---
@@ -63,4 +83,4 @@ Ce site est protégé par **Cloudflare Access** et réservé aux utilisateurs av
 
 ---
 
-**Dernière mise à jour** : 20 janvier 2026 | **Statut** : ✅ En ligne et opérationnel
+**Dernière mise à jour** : février 2026 | **Statut** : ✅ En ligne et opérationnel
