@@ -51,7 +51,6 @@ Rapport de projet : https://fantasy-cyclamen-e0f.notion.site/Documentation-Proje
 
 **[Accéder à Lab 5 →](https://fantasy-cyclamen-e0f.notion.site/Lab-5-VRAI-FICHIER-2e529d729aba8157b6e4efed27fe2ec8?source=copy_link)**
 
----
 
 
 ####  Lab 5: Multi-Environments (Teams) and Multi-Services in Kubernetes
@@ -84,3 +83,5 @@ Ce site est protégé par **Cloudflare Access** et réservé aux utilisateurs av
 ---
 
 **Dernière mise à jour** : février 2026 | **Statut** : ✅ En ligne et opérationnel
+
+[Actualiser le site : ctrlS + wsl make site/update]
