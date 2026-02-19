@@ -53,7 +53,7 @@ Rapport de projet : https://fantasy-cyclamen-e0f.notion.site/Documentation-Proje
 
 
 
-####  Lab 5: Multi-Environments (Teams) and Multi-Services in Kubernetes
+####  Lab 6: Multi-Environments (Teams) and Multi-Services in Kubernetes
 
 **[Accéder à Lab 6 →](https://fantasy-cyclamen-e0f.notion.site/LAB-6-Multi-Environments-Teams-and-Multi-Services-in-Kubernetes-30029d729aba800a83cbe61bfeaea4dd)**
 
