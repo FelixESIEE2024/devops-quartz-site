@@ -51,7 +51,6 @@ Ce site présente les projets et laboratoires DevOps de l'équipe E4 DSIA Félix
 
 
 ## 🚇 **PROJET**
-![Description de l'image](./img.png)
 
 
 
@@ -67,9 +66,6 @@ Ce site présente les projets et laboratoires DevOps de l'équipe E4 DSIA Félix
 
 #### Vidéo de projet : 
 [Visualiser la vidéo→](https://drive.google.com/drive/folders/1koIluh-daW-6z1R4ihT9pXy6LTFiq959?usp=sharing)
-
-<video controls src="Vidéo_DevOps_Félix_CONQUI_Thomas_AsgharAli-1.mp4" title="
-"></video>
 
 
 #### Github : 
