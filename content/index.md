@@ -13,17 +13,7 @@ Ce site présente les projets et laboratoires DevOps de l'équipe E4 DSIA Félix
 
 ---
 
-## 🚇 **PROJET**
 
-
-
-Application : http://app.felixthomasmetro.cloud/
-
-Backend : http://api.felixthomasmetro.cloud:8000
-
-Github : https://github.com/FelixESIEE2024/Metro_DevOps_Thomas_Felix
-
-Rapport de projet : https://fantasy-cyclamen-e0f.notion.site/Documentation-Projet-2ff29d729aba8081b2efc68ec41dfcbf
 
 
 ## 📚 **Laboratoires et Ressourcess**
@@ -59,6 +49,31 @@ Rapport de projet : https://fantasy-cyclamen-e0f.notion.site/Documentation-Proje
 
 ---
 
+
+## 🚇 **PROJET**
+![Description de l'image](./img.png)
+
+
+
+
+#### Application : http://app.felixthomasmetro.cloud/
+
+#### Backend : http://api.felixthomasmetro.cloud:8000
+
+#### Data_collected : http://api.felixthomasmetro.cloud:8000/history
+
+#### Rapport de projet : 
+[Accéder au rapport →](https://fantasy-cyclamen-e0f.notion.site/Documentation-Projet-2ff29d729aba8081b2efc68ec41dfcbf)
+
+#### Vidéo de projet : 
+[Visualiser la vidéo→](https://drive.google.com/drive/folders/1koIluh-daW-6z1R4ihT9pXy6LTFiq959?usp=sharing)
+
+<video controls src="Vidéo_DevOps_Félix_CONQUI_Thomas_AsgharAli-1.mp4" title="
+"></video>
+
+
+#### Github : 
+[Accéder →](https://github.com/FelixESIEE2024/Metro_DevOps_Thomas_Felix)
 
 
 
